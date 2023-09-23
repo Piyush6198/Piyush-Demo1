@@ -1,0 +1,7 @@
+public class Main
+{
+    public staic void main(String[] arrgs)
+    {
+        System.out.println("Hello World")
+    }
+}
